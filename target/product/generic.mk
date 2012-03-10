@@ -22,7 +22,6 @@ PRODUCT_PACKAGES := \
     DeskClock \
     AlarmProvider \
     Bluetooth \
-    Calculator \
     Calendar \
     Camera \
     CertInstaller \
