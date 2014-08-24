@@ -22,9 +22,6 @@ PRODUCT_POLICY := android.policy_phone
 PRODUCT_PACKAGES := \
     DeskClock \
     Bluetooth \
-    Calculator \
-    Calendar \
-    Camera2 \
     CertInstaller \
     Email \
     Exchange2 \
@@ -41,7 +38,6 @@ PRODUCT_PACKAGES := \
     Settings \
     SystemUI \
     TeleService \
-    CalendarProvider \
     bluetooth-health \
     hostapd \
     wpa_supplicant.conf \
