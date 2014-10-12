@@ -18,7 +18,6 @@ PRODUCT_POLICY := android.policy_phone
 PRODUCT_PROPERTY_OVERRIDES :=
 
 PRODUCT_PACKAGES := \
-	Calculator \
 	DeskClock \
 	Email \
 	Exchange2 \
@@ -33,7 +32,6 @@ PRODUCT_PACKAGES := \
 	libWnnJpnDic \
 	libwnndict \
 	TeleService \
-	PinyinIME \
 	libjni_pinyinime \
 	SoftKeyboard \
 	SystemUI \
@@ -58,7 +56,6 @@ PRODUCT_PACKAGES := \
 	ConnectivityTest \
 	GpsLocationTest \
 	CalendarProvider \
-	Calendar \
 	SmokeTest \
 	SmokeTestApp \
 	rild \
